@@ -1062,6 +1062,7 @@
     .container{
     flex-direction: column;
     margin-top: 60px;
+    width: 390px;
     }
     
     .ul-header{
