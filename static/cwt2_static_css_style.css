@@ -1063,6 +1063,7 @@
     flex-direction: column;
     margin-top: 60px;
     width: 390px;
+    overflow-x: hidden;
     }
     
     .ul-header{
